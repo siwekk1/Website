@@ -37,3 +37,47 @@ a:hover
 {
     color: red;
 }
+#logo
+{
+    background-color: black;
+    text-align: center;
+    padding: 15px;
+}
+#nav
+{
+    float:left;
+    background-color: blue;
+    width: 120px;
+    min-height: 1800px;
+    padding: 10px;
+    color: black;
+}
+#content
+{
+    float: left;
+    padding: 20px;
+    width: 640px;
+    text-align: center;
+}
+#ad
+{   
+    float:left;
+    width: 160px;
+    min-height: 1800px;
+    padding: 10px;
+    background-color: blue;
+    color: black;
+}
+#footer
+{
+    color: white;
+    clear: both;
+    background-color: black;
+    text-align:center;
+    padding: 20px;
+}
+#h2
+{
+
+    color: blueviolet;
+}
